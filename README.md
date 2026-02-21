@@ -28,3 +28,9 @@ pip install -r requirements.txt
 python -m src.evaluation.text2data_performance_evaluation
 python -m src.models.random_forest_sentiment
 python -m src.models.compare_models
+
+## Run Evaluation + models
+
+python -m src.evaluation.text2data_performance_evaluation
+python -m src.models.random_forest_sentiment
+python -m src.models.compare_models
